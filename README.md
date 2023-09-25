@@ -4,7 +4,7 @@ Input is given a sequence of video frame. Construct a video by by interpolating 
 
 ## Oiginal Video:
 
-https://github.com/rokmr/digitalVideo/assets/104412006/c121f936-bedb-4231-b8fa-fffdb39cc1a8
+
 
 
 
